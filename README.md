@@ -57,7 +57,7 @@ Como titular de los datos, usted tiene derecho a:
 	•	Solicitar la limitación del tratamiento.
 	•	Portabilidad de sus datos.
 	•	Retirar su consentimiento en cualquier momento.
-Para ejercer estos derechos, puede contactarnos a través de: opuqcdheprestamos.topttor
+Para ejercer estos derechos, puede contactarnos a través de: opuqapi.cdheprestamos.topttor
 9. Cookies y Tecnologías Similares
 Utilizamos cookies para:
 	•	Garantizar el funcionamiento básico del sitio web.
